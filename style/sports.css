@@ -1,0 +1,57 @@
+#sportspage {
+    background-color: lightblue;
+    padding: 5px;
+    width: 1320px;
+  }
+
+h1{
+    font-family: "Ubuntu", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    transform: translateY(-58px);
+}
+.jumbotron{
+    height: 100px;
+}
+#me{
+    font-size: 35px;
+    transform: translateY(-50px);
+    color: black;
+    font-family: "Ubuntu", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+#me-2{
+   
+    -webkit-text-stroke: .5px rgb(0, 0, 0);
+    font-family: "Ubuntu", serif;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+#me-3{
+    font-size: 35px;
+    transform: translateY(-60px);
+    color: black;
+    font-family: "Ubuntu", serif;
+    font-weight: 500;
+    font-style: normal;
+    margin-left: 10px;
+}
+#me-4{
+   
+    -webkit-text-stroke: .5px rgb(0, 0, 0);
+    font-family: "Ubuntu", serif;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 10px;
+}

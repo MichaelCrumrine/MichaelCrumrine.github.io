@@ -1,0 +1,81 @@
+#recipe-title {
+   color: rgb(136, 0, 255);
+    
+  }
+  
+  #recipe-page {
+    background-image: linear-gradient(lightskyblue , rgb(108, 71, 255));
+    padding: 5px;
+    font-family: "Happy Monkey", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .step {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .step .action {
+    font-weight: bold;
+    color: rgb(66, 66, 247);
+  }
+  
+  #history {
+    background-color: lightgray;
+    border: 2px dotted blue;
+  }
+  
+  #Ingredients {
+    background-color: lightgray;
+    border: 2px dotted blue;
+    margin-top: 10px;
+    padding-left: 20px;
+    height: 680px;
+  }
+  
+  #Directions {
+    background-color: lightgray;
+    border: 2px dotted blue;
+    margin-top: 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    height: 680px;
+  }
+  
+  .ingredient-item{
+    list-style-type: square;
+    font-style: oblique;
+    color: midnightblue;
+  }
+  
+  
+  
+  .peas{
+    color: darkgreen;
+  }
+  #recipe-image {
+    border: 2px dashed blue;
+    margin-top: 25px;
+    border-radius:50%;
+  }
+   
+  #tips{
+    background-color: lightgray;
+    border: 2px dotted blue;
+    margin-top: 10px;
+    height: 680px;
+  }
+  body {
+    font-family: "Lato", sans-serif;
+  }
+  img{
+    border: 2px dashed blue;
+    height: 260px;
+  }
+  video{
+    border: 2px dashed blue;
+  }
+
+  
+  
+  
